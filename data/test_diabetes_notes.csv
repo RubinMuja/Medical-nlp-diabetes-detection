@@ -1,0 +1,362 @@
+journal_note,code,name,diabetes_label
+"Fever 39.5°C, tachycardia, hypotension. Suspected UTI source. Blood cx drawn. Started broad-spectrum abx. ICU consult.",A41,Other sepsis,0
+"Fever 39.5°C, tachycardia, hypotension. Suspected UTI source. Blood cx drawn. Started broad-spectrum abx. ICU consult.",A41,Muu sepsis,0
+"GAD-7: 14. Persistent worry, restlessness x6mo. No panic. CBT recommended. SSRI discussed - patient prefers therapy first.",F41,Anksiyete bozuklukları,0
+Persistent dry cough x4wks. Non-smoker. No dyspnea. CXR normal. Likely post-viral. Trial antihistamine. PPI if no improvement.,R05,Cough,0
+"Productive cough, fever 38.8°C, dyspnea. CXR: RLL consolidation. CRP 120. Amoxicillin started. F/u 48h.",J18,"Pnewmonja, organiżmu mhux speċifikat",0
+"Intermittent wheeze, nocturnal cough. PEF variability >20%. Spirometry: reversible obstruction. ICS/LABA started. Asthma action plan.",J45,Astım,0
+"Fever 39.5°C, tachycardia, hypotension. Suspected UTI source. Blood cx drawn. Started broad-spectrum abx. ICU consult.",A41,Ostale sepse,0
+"BMI 38. Weight 115kg. Discussed lifestyle modifications, diet, exercise. Consider GLP-1 agonist. Dietitian referral.",E66,Obésité,0
+Patient diagnosed with Recurrent depressive disorder. Assessment and plan documented.,F33,Рекуррентное депрессивное расстройство,0
+New onset T1DM. DKA on presentation. Insulin started. Diabetes education initiated. Endo f/u arranged.,E10,Type 1-diabetes,1
+"Hb 95, MCV 72, ferritin 8. Menorrhagia reported. Started iron supplementation. GYN referral.",D50,Anémie z nedostatku železa,0
+"NYHA II. Echo: EF 35%, dilated LV. BNP 450. On ACEi, BB, diuretic, MRA. ICD evaluation referred.",I50,Szívelégtelenség,0
+"Mechanical LBP x2wks, no radiculopathy. No red flags. ROM limited. NSAIDs. PT referral. Activity as tolerated.",M54,Дорсалгия,0
+"COPD GOLD III. Increased dyspnea, purulent sputum. SpO2 88% RA. ABG: resp acidosis. Admitted. Steroids, bronchodilators, abx. NIV.",J44,Chronická obštrukčná choroba pľúc,0
+eGFR 42. Proteinuria 0.5g/d. BP controlled on ACEi. DM controlled. Avoid nephrotoxins. Annual uACR/eGFR. Nephro referral if decline.,N18,Penyakit ginjal kronis,0
+Patient diagnosed with General examination and investigation. Assessment and plan documented.,Z00,Üldine läbivaatus,0
+Patient diagnosed with Recurrent depressive disorder. Assessment and plan documented.,F33,Transtorno depressivo recorrente,0
+Patient diagnosed with Chronic ischemic heart disease. Assessment and plan documented.,I25,Хронична исхемична болест на сърцето,0
+Patient diagnosed with Alcohol related disorders. Assessment and plan documented.,F10,ความผิดปกติที่เกี่ยวข้องกับแอลกอฮอล์,0
+"Recurrent unilateral throbbing HA with N/V, photophobia. 4-5/month. Triggers: stress, sleep. Sumatriptan PRN. HA diary.",G43,Migrena,0
+Patient diagnosed with Cholera. Assessment and plan documented.,A00,Cólera,0
+Patient diagnosed with Epilepsy. Assessment and plan documented.,G40,간질,0
+"Hb 95, MCV 72, ferritin 8. Menorrhagia reported. Started iron supplementation. GYN referral.",D50,Thiếu máu thiếu sắt,0
+Patient diagnosed with Abdominal and pelvic pain. Assessment and plan documented.,R10,Bauch- und Beckenschmerzen,0
+"FOOSH injury. XR: distal radius fx, minimal displacement. Closed reduction. Cast applied. Elevation, ice. Ortho f/u 1wk.",S52,Счупване на предмишницата,0
+HbA1c 58. FBG 8.2. BMI 31. Diet/exercise counseling. Started metformin 500mg bid. Annual eye/foot exam ordered.,E11,Сахарный диабет 2-го типа,1
+Persistent AF. CHA2DS2-VASc 3. Started DOAC. Rate control with BB. Echo: normal LV function.,I48,ภาวะหัวใจห้องบนเต้นผิดจังหวะ,0
+Persistent dry cough x4wks. Non-smoker. No dyspnea. CXR normal. Likely post-viral. Trial antihistamine. PPI if no improvement.,R05,खांसी,0
+"BP 158/96 x3 readings. No end-organ damage. BMI 28. Lifestyle: DASH diet, exercise, Na restriction. Started ACEi. Home BP monitoring.",I10,Esenciálna hypertenzia,0
+Patient diagnosed with Hypothyroidism. Assessment and plan documented.,E03,Hypothyroidism,0
+Patient diagnosed with Disorders of lipoprotein metabolism. Assessment and plan documented.,E78,Zaburzenia metabolizmu lipoprotein,0
+Patient diagnosed with Encounter for immunization. Assessment and plan documented.,Z23,Rokotus,0
+Patient diagnosed with Cholera. Assessment and plan documented.,A00,Kolera,0
+"Productive cough, fever 38.8°C, dyspnea. CXR: RLL consolidation. CRP 120. Amoxicillin started. F/u 48h.",J18,"Pljučnica, neopredeljen organizem",0
+"Mechanical LBP x2wks, no radiculopathy. No red flags. ROM limited. NSAIDs. PT referral. Activity as tolerated.",M54,Dorsalgie,0
+"Feber 39,5°C, takykardi, hypotension. Misstänkt UVI-fokus. Blododlingar tagna. Bredspektrumantibiotika insatt. IVA-konsult.",A41,Annan sepsis,0
+Patient diagnosed with Malignant neoplasm of colon. Assessment and plan documented.,C18,Kolon malign neoplazmı,0
+"COPD GOLD III. Increased dyspnea, purulent sputum. SpO2 88% RA. ABG: resp acidosis. Admitted. Steroids, bronchodilators, abx. NIV.",J44,Broncopneumopatia cronica ostruttiva,0
+"Acute CP, diaphoresis. ECG: STE V1-V4. Troponin elevated. STEMI protocol. ASA, heparin, clopidogrel. Emergent PCI.",I21,Cnáimhseach miócardach géar,0
+Patient diagnosed with HIV disease. Assessment and plan documented.,B20,ŽIV liga,0
+Patient diagnosticerad med Alkoholrelaterade störningar. Bedömning och plan dokumenterade.,F10,Alkoholrelaterade störningar,0
+Patient diagnosed with Chronic ischemic heart disease. Assessment and plan documented.,I25,Хроническая ишемическая болезнь сердца,0
+Persistent dry cough x4wks. Non-smoker. No dyspnea. CXR normal. Likely post-viral. Trial antihistamine. PPI if no improvement.,R05,기침,0
+Nydebuterad T1DM. DKA vid ankomst. Insulin insatt. Diabetesutbildning påbörjad. Endokrinuppföljning planerad.,E10,Diabetes mellitus typ 1,1
+Patient diagnosed with Intracranial injury. Assessment and plan documented.,S06,Intracranieel letsel,0
+Patient diagnosed with Malignant neoplasm of prostate. Assessment and plan documented.,C61,Eturauhasen syöpä,0
+Patient diagnosed with Chronic ischemic heart disease. Assessment and plan documented.,I25,Chronic ischemic heart disease,0
+Patient diagnosed with General examination and investigation. Assessment and plan documented.,Z00,Exame geral,0
+Persistent dry cough x4wks. Non-smoker. No dyspnea. CXR normal. Likely post-viral. Trial antihistamine. PPI if no improvement.,R05,Yskä,0
+New onset T1DM. DKA on presentation. Insulin started. Diabetes education initiated. Endo f/u arranged.,E10,1 tipo cukrinis diabetas,1
+Patient diagnosed with Disorders of lipoprotein metabolism. Assessment and plan documented.,E78,ความผิดปกติของการเผาผลาญไลโปโปรตีน,0
+CT chest: 4cm RUL mass with mediastinal LAD. Biopsy scheduled. Staging initiated. Oncology referral.,C34,Maligni tumor bronhijev in pljuč,0
+Patient diagnosed with Alzheimer disease. Assessment and plan documented.,G30,Alzheimers sygdom,0
+Patient diagnosed with Diabetes mellitus in pregnancy. Assessment and plan documented.,O24,Сахарный диабет при беременности,0
+"BP 158/96 x3 readings. No end-organ damage. BMI 28. Lifestyle: DASH diet, exercise, Na restriction. Started ACEi. Home BP monitoring.",I10,Nadciśnienie pierwotne,0
+"Fever 39.5°C, tachycardia, hypotension. Suspected UTI source. Blood cx drawn. Started broad-spectrum abx. ICU consult.",A41,Sepsis oħra,0
+Patient diagnosed with Malignant neoplasm of colon. Assessment and plan documented.,C18,U ác tính đại tràng,0
+"Progressive knee pain, worse with activity. XR: JSN, osteophytes. Weight loss advised. Paracetamol. PT for quads. Consider injection.",M17,Thoái hóa khớp gối,0
+"Mechanical LBP x2wks, no radiculopathy. No red flags. ROM limited. NSAIDs. PT referral. Activity as tolerated.",M54,Ραχιαλγία,0
+Patient diagnosed with Osteoporosis without pathological fracture. Assessment and plan documented.,M81,Osteoporoza brez patološkega zloma,0
+"Fever 39.5°C, tachycardia, hypotension. Suspected UTI source. Blood cx drawn. Started broad-spectrum abx. ICU consult.",A41,Inna posocznica,0
+Patient diagnosed with General examination and investigation. Assessment and plan documented.,Z00,General examination and investigation,0
+Persistent AF. CHA2DS2-VASc 3. Started DOAC. Rate control with BB. Echo: normal LV function.,I48,Fibrilación y aleteo auricular,0
+"BP 158/96 x3 readings. No end-organ damage. BMI 28. Lifestyle: DASH diet, exercise, Na restriction. Started ACEi. Home BP monitoring.",I10,ارتفاع ضغط الدم الأساسي,0
+Patient diagnosed with Angina pectoris. Assessment and plan documented.,I20,Angina pektoris,0
+Patient diagnosed with Multiple sclerosis. Assessment and plan documented.,G35,Roztroušená skleróza,0
+Patient diagnosed with Angina pectoris. Assessment and plan documented.,I20,Angina pektoris,0
+"Mechanical LBP x2wks, no radiculopathy. No red flags. ROM limited. NSAIDs. PT referral. Activity as tolerated.",M54,Dorsalgeo,0
+Patient diagnosed with General examination and investigation. Assessment and plan documented.,Z00,Všeobecné vyšetrenie,0
+Patient diagnosed with Malignant neoplasm of colon. Assessment and plan documented.,C18,Neoplaism urchóideach an cholóin,0
+New onset T1DM. DKA on presentation. Insulin started. Diabetes education initiated. Endo f/u arranged.,E10,Tyypin 1 diabetes,1
+"BP 158/96 x3 readings. No end-organ damage. BMI 28. Lifestyle: DASH diet, exercise, Na restriction. Started ACEi. Home BP monitoring.",I10,Esencijalna hipertenzija,0
+Persistent dry cough x4wks. Non-smoker. No dyspnea. CXR normal. Likely post-viral. Trial antihistamine. PPI if no improvement.,R05,Kašelj,0
+Patient diagnosed with Disorders of lipoprotein metabolism. Assessment and plan documented.,E78,Lipoproteiinide ainevahetuse häired,0
+Persistent AF. CHA2DS2-VASc 3. Started DOAC. Rate control with BB. Echo: normal LV function.,I48,Fibrilácia a flutter predsiení,0
+"Intermittent wheeze, nocturnal cough. PEF variability >20%. Spirometry: reversible obstruction. ICS/LABA started. Asthma action plan.",J45,哮喘,0
+"Intermittent wheeze, nocturnal cough. PEF variability >20%. Spirometry: reversible obstruction. ICS/LABA started. Asthma action plan.",J45,Астма,0
+Patient diagnosed with Diabetes mellitus in pregnancy. Assessment and plan documented.,O24,Sladkorna bolezen v nosečnosti,0
+Mammography: suspicious 2cm lesion L breast. Core biopsy done - awaiting path. MDT planned.,C50,Neoplasma ganas payudara,0
+"Tension-type HA, bilateral, pressing. No red flags. Occasional paracetamol. Stress, poor sleep. Lifestyle advice. HA diary.",R51,Sakit kepala,0
+HbA1c 58. FBG 8.2. BMI 31. Diet/exercise counseling. Started metformin 500mg bid. Annual eye/foot exam ordered.,E11,Tip 2 diyabet,1
+"NYHA II. Echo: EF 35%, dilated LV. BNP 450. On ACEi, BB, diuretic, MRA. ICD evaluation referred.",I50,Niewydolność serca,0
+Patient diagnosed with Osteoporosis without pathological fracture. Assessment and plan documented.,M81,Csontritkulás kóros törés nélkül,0
+"PHQ-9: 15. Sleep disturbance, anhedonia, poor concentration x6wks. No SI. Started SSRI. Psychotherapy referral. F/u 2wks.",F32,अवसादग्रस्त प्रकरण,0
+Patient diagnosed with Disorders of lipoprotein metabolism. Assessment and plan documented.,E78,Poruchy metabolismu lipoproteinů,0
+"Acute L hemiparesis, facial droop. CT: R MCA infarct. tPA given. Stroke unit admission. Secondary prevention started.",I63,Infark serebral,0
+Patient diagnosed with Abdominal and pelvic pain. Assessment and plan documented.,R10,Dolore addominale e pelvico,0
+Patient diagnosed with Parkinson disease. Assessment and plan documented.,G20,Parkinson hastalığı,0
+"Patient presents with acute diarrhea and vomiting x2 days. No blood in stool. Mild dehydration. VS stable. Dx: Viral gastroenteritis. Plan: ORS, symptomatic Tx.",A09,Enfeksiyöz gastroenterit,0
+Patient diagnosed with HIV disease. Assessment and plan documented.,B20,HIV-Krankheit,0
+"BMI 38. Weight 115kg. Discussed lifestyle modifications, diet, exercise. Consider GLP-1 agonist. Dietitian referral.",E66,मोटापा,0
+"Fever 39.5°C, tachycardia, hypotension. Suspected UTI source. Blood cx drawn. Started broad-spectrum abx. ICU consult.",A41,Kita sepsė,0
+"Progressive knee pain, worse with activity. XR: JSN, osteophytes. Weight loss advised. Paracetamol. PT for quads. Consider injection.",M17,Osteoarthritis of knee,0
+"Dysuria, frequency, urgency. No fever/flank pain. Dipstick: nitrite+, WBC++. Uncomplicated cystitis. Nitrofurantoin x3d.",N39,Muud kuseteede haigused,0
+Patient diagnosed with HIV disease. Assessment and plan documented.,B20,Boală HIV,0
+Patient diagnosed with Cholera. Assessment and plan documented.,A00,Kolera,0
+Patient diagnosed with Encounter for immunization. Assessment and plan documented.,Z23,Impfung,0
+"Heartburn, regurgitation x3mo. Gastroscopy: LA grade B esophagitis. H.pylori neg. PPI started. Lifestyle advice. F/u scope 8wks.",K21,Refluksitauti,0
+"BMI 38. Weight 115kg. Discussed lifestyle modifications, diet, exercise. Consider GLP-1 agonist. Dietitian referral.",E66,Ожирение,0
+"COPD GOLD III. Increased dyspnea, purulent sputum. SpO2 88% RA. ABG: resp acidosis. Admitted. Steroids, bronchodilators, abx. NIV.",J44,Χρόνια αποφρακτική πνευμονοπάθεια,0
+"Heartburn, regurgitation x3mo. Gastroscopy: LA grade B esophagitis. H.pylori neg. PPI started. Lifestyle advice. F/u scope 8wks.",K21,Gastroøsofageal refluks,0
+"Patient presents with acute diarrhea and vomiting x2 days. No blood in stool. Mild dehydration. VS stable. Dx: Viral gastroenteritis. Plan: ORS, symptomatic Tx.",A09,Gastroenterită infecțioasă,0
+Patient diagnosed with Alzheimer disease. Assessment and plan documented.,G30,Νόσος Αλτσχάιμερ,0
+"Fever 39.5°C, tachycardia, hypotension. Suspected UTI source. Blood cx drawn. Started broad-spectrum abx. ICU consult.",A41,Другой сепсис,0
+"BMI 38. Weight 115kg. Discussed lifestyle modifications, diet, exercise. Consider GLP-1 agonist. Dietitian referral.",E66,Nutukimas,0
+Patient diagnosed with Disorders of lipoprotein metabolism. Assessment and plan documented.,E78,Rối loạn chuyển hóa lipoprotein,0
+Mammography: suspicious 2cm lesion L breast. Core biopsy done - awaiting path. MDT planned.,C50,Neoplasm malign al sânului,0
+Patient diagnosed with Chronic ischemic heart disease. Assessment and plan documented.,I25,Doença isquêmica crônica do coração,0
+"3d rhinorrhea, sore throat, mild cough. Afebrile. Lungs clear. Viral URI. Symptomatic Tx. Return if worse.",J06,Infezioni acute delle vie respiratorie superiori,0
+"Acute CP, diaphoresis. ECG: STE V1-V4. Troponin elevated. STEMI protocol. ASA, heparin, clopidogrel. Emergent PCI.",I21,Остър миокарден инфаркт,0
+Patient diagnosed with Epilepsy. Assessment and plan documented.,G40,Epilepsia,0
+Patient diagnosed with Encounter for immunization. Assessment and plan documented.,Z23,Vacinação,0
+Patient diagnosed with Osteoporosis without pathological fracture. Assessment and plan documented.,M81,Osteoporoosi ilman patologista murtumaa,0
+Patient diagnosed with Intracranial injury. Assessment and plan documented.,S06,Korriment intrakranjali,0
+"GAD-7: 14. Persistent worry, restlessness x6mo. No panic. CBT recommended. SSRI discussed - patient prefers therapy first.",F41,चिंता विकार,0
+"Dysuria, frequency, urgency. No fever/flank pain. Dipstick: nitrite+, WBC++. Uncomplicated cystitis. Nitrofurantoin x3d.",N39,Gangguan lain sistem kemih,0
+HbA1c 58. FBG 8.2. BMI 31. Diet/exercise counseling. Started metformin 500mg bid. Annual eye/foot exam ordered.,E11,Diabète de type 2,1
+eGFR 42. Proteinuria 0.5g/d. BP controlled on ACEi. DM controlled. Avoid nephrotoxins. Annual uACR/eGFR. Nephro referral if decline.,N18,Lėtinė inkstų liga,0
+Patient diagnosed with General examination and investigation. Assessment and plan documented.,Z00,Badanie ogólne,0
+Patient diagnosed with Abdominal and pelvic pain. Assessment and plan documented.,R10,Bolesť brucha a panvy,0
+"Tension-type HA, bilateral, pressing. No red flags. Occasional paracetamol. Stress, poor sleep. Lifestyle advice. HA diary.",R51,Baş ağrısı,0
+HbA1c 58. FBG 8.2. BMI 31. Diet/exercise counseling. Started metformin 500mg bid. Annual eye/foot exam ordered.,E11,داء السكري من النوع الثاني,1
+Patient diagnosed with Angina pectoris. Assessment and plan documented.,I20,Angina pectoris,0
+Patient diagnosed with Gastritis and duodenitis. Assessment and plan documented.,K29,Gastritas ir duodenitas,0
+"3d rhinorrhea, sore throat, mild cough. Afebrile. Lungs clear. Viral URI. Symptomatic Tx. Return if worse.",J06,तीव्र ऊपरी श्वसन संक्रमण,0
+Patient diagnosed with Intracranial injury. Assessment and plan documented.,S06,การบาดเจ็บในกะโหลกศีรษะ,0
+"Hb 95, MCV 72, ferritin 8. Menorrhagia reported. Started iron supplementation. GYN referral.",D50,Anemia defisiensi besi,0
+"COPD GOLD III. Increased dyspnea, purulent sputum. SpO2 88% RA. ABG: resp acidosis. Admitted. Steroids, bronchodilators, abx. NIV.",J44,Maladie pulmonaire obstructive chronique,0
+Persistent AF. CHA2DS2-VASc 3. Started DOAC. Rate control with BB. Echo: normal LV function.,I48,Kodade virvendus ja laperdus,0
+"Mechanical LBP x2wks, no radiculopathy. No red flags. ROM limited. NSAIDs. PT referral. Activity as tolerated.",M54,ألم الظهر,0
+Mammography: suspicious 2cm lesion L breast. Core biopsy done - awaiting path. MDT planned.,C50,乳腺恶性肿瘤,0
+Mammography: suspicious 2cm lesion L breast. Core biopsy done - awaiting path. MDT planned.,C50,Maligni tumor dojke,0
+"Tension-type HA, bilateral, pressing. No red flags. Occasional paracetamol. Stress, poor sleep. Lifestyle advice. HA diary.",R51,Cefalea,0
+"Productive cough, fever 38.8°C, dyspnea. CXR: RLL consolidation. CRP 120. Amoxicillin started. F/u 48h.",J18,"Pneumonie, Erreger nicht näher bezeichnet",0
+Patient diagnosed with Abdominal and pelvic pain. Assessment and plan documented.,R10,腹痛及び骨盤痛,0
+Patient diagnosed with HIV disease. Assessment and plan documented.,B20,Malattia da HIV,0
+"NYHA II. Echo: EF 35%, dilated LV. BNP 450. On ACEi, BB, diuretic, MRA. ICD evaluation referred.",I50,Insuficiență cardiacă,0
+Persistent dry cough x4wks. Non-smoker. No dyspnea. CXR normal. Likely post-viral. Trial antihistamine. PPI if no improvement.,R05,Husten,0
+Patient diagnosed with Malignant neoplasm of colon. Assessment and plan documented.,C18,Neoplasia maligna del colon,0
+Patient diagnosed with General examination and investigation. Assessment and plan documented.,Z00,Examen général,0
+"FOOSH injury. XR: distal radius fx, minimal displacement. Closed reduction. Cast applied. Elevation, ice. Ortho f/u 1wk.",S52,Fractură de antebraț,0
+Patient diagnosed with Disorders of lipoprotein metabolism. Assessment and plan documented.,E78,Poremećaji metabolizma lipoproteina,0
+"Fever 39.5°C, tachycardia, hypotension. Suspected UTI source. Blood cx drawn. Started broad-spectrum abx. ICU consult.",A41,Iná sepsa,0
+Patient diagnosed with Disorders of lipoprotein metabolism. Assessment and plan documented.,E78,Forstyrrelser i lipoproteinstofskiftet,0
+"GAD-7: 14. Persistent worry, restlessness x6mo. No panic. CBT recommended. SSRI discussed - patient prefers therapy first.",F41,Anksiozni poremećaji,0
+Patient diagnosed with Multiple sclerosis. Assessment and plan documented.,G35,Рассеянный склероз,0
+CT chest: 4cm RUL mass with mediastinal LAD. Biopsy scheduled. Staging initiated. Oncology referral.,C34,ورم خبيث في القصبات والرئة,0
+"Patient presents with acute diarrhea and vomiting x2 days. No blood in stool. Mild dehydration. VS stable. Dx: Viral gastroenteritis. Plan: ORS, symptomatic Tx.",A09,Gastroenterite infettiva,0
+"NYHA II. Echo: EF 35%, dilated LV. BNP 450. On ACEi, BB, diuretic, MRA. ICD evaluation referred.",I50,Hjertesvigt,0
+Patient diagnosed with Parkinson disease. Assessment and plan documented.,G20,Parkinsonova bolest,0
+Patient diagnosed with Gastritis and duodenitis. Assessment and plan documented.,K29,Gastritis und Duodenitis,0
+Patient diagnosticerad med Kolera. Bedömning och plan dokumenterade.,A00,Kolera,0
+"3d rhinorrhea, sore throat, mild cough. Afebrile. Lungs clear. Viral URI. Symptomatic Tx. Return if worse.",J06,Infeksi saluran napas atas akut,0
+"Productive cough, fever 38.8°C, dyspnea. CXR: RLL consolidation. CRP 120. Amoxicillin started. F/u 48h.",J18,"Pneumónia, nešpecifikovaný organizmus",0
+"Hb 95, MCV 72, ferritin 8. Menorrhagia reported. Started iron supplementation. GYN referral.",D50,缺铁性贫血,0
+Patient diagnosed with Abdominal and pelvic pain. Assessment and plan documented.,R10,Đau bụng và vùng chậu,0
+Patient diagnosed with Epilepsy. Assessment and plan documented.,G40,Epilepsija,0
+Patient diagnosed with Intracranial injury. Assessment and plan documented.,S06,Ενδοκρανιακή κάκωση,0
+Patient diagnosed with Encounter for immunization. Assessment and plan documented.,Z23,Szczepienie,0
+"Fall from standing. Hip pain, shortened ext rotated leg. XR: intertrochanteric fx. Ortho consult. Surgical fixation planned.",S72,Fraktur des Femurs,0
+Patient diagnosed with Malaise and fatigue. Assessment and plan documented.,R53,Złe samopoczucie i zmęczenie,0
+"Progressive knee pain, worse with activity. XR: JSN, osteophytes. Weight loss advised. Paracetamol. PT for quads. Consider injection.",M17,Gonartróza,0
+Patient diagnosed with Recurrent depressive disorder. Assessment and plan documented.,F33,โรคซึมเศร้าซ้ำ,0
+Patient diagnosed with Cholelithiasis. Assessment and plan documented.,K80,Kolelitijażi,0
+CT chest: 4cm RUL mass with mediastinal LAD. Biopsy scheduled. Staging initiated. Oncology referral.,C34,Злокачествено новообразувание на бронх и бял дроб,0
+"Acute L hemiparesis, facial droop. CT: R MCA infarct. tPA given. Stroke unit admission. Secondary prevention started.",I63,Možganski infarkt,0
+Patient diagnosed with Hypothyroidism. Assessment and plan documented.,E03,قصور الغدة الدرقية,0
+Patient diagnosed with Abdominal and pelvic pain. Assessment and plan documented.,R10,Karın ve pelvik ağrı,0
+"Acute L hemiparesis, facial droop. CT: R MCA infarct. tPA given. Stroke unit admission. Secondary prevention started.",I63,Infarto cerebrale,0
+Patient diagnosed with Alcohol related disorders. Assessment and plan documented.,F10,"Расстройства, связанные с алкоголем",0
+Patient diagnosed with Diabetes mellitus in pregnancy. Assessment and plan documented.,O24,Diabetes mellitus v těhotenství,0
+Patient diagnosed with Diabetes mellitus in pregnancy. Assessment and plan documented.,O24,Diabetes mellitus v tehotenstve,0
+Patient diagnosed with Cholera. Assessment and plan documented.,A00,Cólera,0
+Patient diagnosed with Chronic ischemic heart disease. Assessment and plan documented.,I25,Chronická ischemická choroba srdeční,0
+"Hb 95, MCV 72, ferritin 8. Menorrhagia reported. Started iron supplementation. GYN referral.",D50,Anemija zbog nedostatka željeza,0
+"Acute CP, diaphoresis. ECG: STE V1-V4. Troponin elevated. STEMI protocol. ASA, heparin, clopidogrel. Emergent PCI.",I21,Infarto agudo do miocárdio,0
+Patient diagnosed with Recurrent depressive disorder. Assessment and plan documented.,F33,Neamhord dúlagair athfhillteach,0
+Patient diagnosed with Encounter for immunization. Assessment and plan documented.,Z23,Imunisasi,0
+Patient diagnosed with General examination and investigation. Assessment and plan documented.,Z00,فحص عام,0
+"Progressive knee pain, worse with activity. XR: JSN, osteophytes. Weight loss advised. Paracetamol. PT for quads. Consider injection.",M17,Ceļa locītavas osteoartrīts,0
+"Tension-type HA, bilateral, pressing. No red flags. Occasional paracetamol. Stress, poor sleep. Lifestyle advice. HA diary.",R51,Fejfájás,0
+"Fall from standing. Hip pain, shortened ext rotated leg. XR: intertrochanteric fx. Ortho consult. Surgical fixation planned.",S72,Fractuur van femur,0
+Patient diagnosed with Abdominal and pelvic pain. Assessment and plan documented.,R10,Buik- en bekkenpijn,0
+"Productive cough, fever 38.8°C, dyspnea. CXR: RLL consolidation. CRP 120. Amoxicillin started. F/u 48h.",J18,"Pneumonie, blíže neurčený organismus",0
+eGFR 42. Proteinuria 0.5g/d. BP controlled on ACEi. DM controlled. Avoid nephrotoxins. Annual uACR/eGFR. Nephro referral if decline.,N18,Chronische Nierenkrankheit,0
+CT chest: 4cm RUL mass with mediastinal LAD. Biopsy scheduled. Staging initiated. Oncology referral.,C34,Bronş ve akciğer malign neoplazmı,0
+Patient diagnosed with Diabetes mellitus in pregnancy. Assessment and plan documented.,O24,Diabetes mellitus under graviditet,0
+Patient diagnosed with Intracranial injury. Assessment and plan documented.,S06,Uraz wewnątrzczaszkowy,0
+Patient diagnosed with Cholera. Assessment and plan documented.,A00,Coilire,0
+"COPD GOLD III. Increased dyspnea, purulent sputum. SpO2 88% RA. ABG: resp acidosis. Admitted. Steroids, bronchodilators, abx. NIV.",J44,Chronická obstrukční plicní nemoc,0
+Patient diagnosed with Alcohol related disorders. Assessment and plan documented.,F10,Trastornos relacionados con el alcohol,0
+"3d rhinorrhea, sore throat, mild cough. Afebrile. Lungs clear. Viral URI. Symptomatic Tx. Return if worse.",J06,Острые инфекции верхних дыхательных путей,0
+Persistent AF. CHA2DS2-VASc 3. Started DOAC. Rate control with BB. Echo: normal LV function.,I48,Fibrilação e flutter atrial,0
+"Heartburn, regurgitation x3mo. Gastroscopy: LA grade B esophagitis. H.pylori neg. PPI started. Lifestyle advice. F/u scope 8wks.",K21,Gastroözofageal reflü hastalığı,0
+Patient diagnosed with Epilepsy. Assessment and plan documented.,G40,โรคลมชัก,0
+"Recurrent unilateral throbbing HA with N/V, photophobia. 4-5/month. Triggers: stress, sleep. Sumatriptan PRN. HA diary.",G43,Enxaqueca,0
+"Fever 39.5°C, tachycardia, hypotension. Suspected UTI source. Blood cx drawn. Started broad-spectrum abx. ICU consult.",A41,기타 패혈증,0
+"Heartburn, regurgitation x3mo. Gastroscopy: LA grade B esophagitis. H.pylori neg. PPI started. Lifestyle advice. F/u scope 8wks.",K21,Bệnh trào ngược dạ dày thực quản,0
+Patient diagnosed with Encounter for immunization. Assessment and plan documented.,Z23,Vakcinacija,0
+Patient diagnosed with Osteoporosis without pathological fracture. Assessment and plan documented.,M81,กระดูกพรุนไม่มีกระดูกหักทางพยาธิวิทยา,0
+Patient diagnosed with Malaise and fatigue. Assessment and plan documented.,R53,不适和疲劳,0
+"Hb 95, MCV 72, ferritin 8. Menorrhagia reported. Started iron supplementation. GYN referral.",D50,Rauavaegusaneemia,0
+Patient diagnosed with Cholelithiasis. Assessment and plan documented.,K80,胆石症,0
+"Hb 95, MCV 72, ferritin 8. Menorrhagia reported. Started iron supplementation. GYN referral.",D50,IJzergebreksanemie,0
+CT chest: 4cm RUL mass with mediastinal LAD. Biopsy scheduled. Staging initiated. Oncology referral.,C34,Bronhu un plaušu ļaundabīgs audzējs,0
+Patient diagnosed with Respiratory tuberculosis. Assessment and plan documented.,A15,호흡기 결핵,0
+Patient diagnosed with Abdominal and pelvic pain. Assessment and plan documented.,R10,Abdominalna i zdjelična bol,0
+Patient diagnosed with Malignant neoplasm of colon. Assessment and plan documented.,C18,Zhubný nádor hrubého čreva,0
+"NYHA II. Echo: EF 35%, dilated LV. BNP 450. On ACEi, BB, diuretic, MRA. ICD evaluation referred.",I50,心力衰竭,0
+"Acute L hemiparesis, facial droop. CT: R MCA infarct. tPA given. Stroke unit admission. Secondary prevention started.",I63,Cnáimhseach inchinne,0
+Patient diagnosed with Malignant neoplasm of prostate. Assessment and plan documented.,C61,Zhoubný novotvar prostaty,0
+"FOOSH injury. XR: distal radius fx, minimal displacement. Closed reduction. Cast applied. Elevation, ice. Ortho f/u 1wk.",S52,Briseadh ríghe,0
+Patient diagnosed with Multiple sclerosis. Assessment and plan documented.,G35,多発性硬化症,0
+"BT 158/96 x3 mätningar. Inga organskador. BMI 28. Livsstil: DASH-diet, motion, saltrestriktion. ACE-hämmare insatt. Hemblodtrycksmätning.",I10,Essentiell hypertoni,0
+"Heartburn, regurgitation x3mo. Gastroscopy: LA grade B esophagitis. H.pylori neg. PPI started. Lifestyle advice. F/u scope 8wks.",K21,Malattia da reflusso gastroesofageo,0
+Patient diagnosed with Angina pectoris. Assessment and plan documented.,I20,狭心症,0
+"Heartburn, regurgitation x3mo. Gastroscopy: LA grade B esophagitis. H.pylori neg. PPI started. Lifestyle advice. F/u scope 8wks.",K21,Gastro-oesofageale refluxziekte,0
+Persistent dry cough x4wks. Non-smoker. No dyspnea. CXR normal. Likely post-viral. Trial antihistamine. PPI if no improvement.,R05,ไอ,0
+Patient diagnosed with Alcohol related disorders. Assessment and plan documented.,F10,알코올 관련 장애,0
+"Productive cough, fever 38.8°C, dyspnea. CXR: RLL consolidation. CRP 120. Amoxicillin started. F/u 48h.",J18,"Keuhkokuume, määrittämätön",0
+Patient diagnosed with Encounter for immunization. Assessment and plan documented.,Z23,Vaccinare,0
+Persistent dry cough x4wks. Non-smoker. No dyspnea. CXR normal. Likely post-viral. Trial antihistamine. PPI if no improvement.,R05,Кашель,0
+Patient diagnosed with Disorders of lipoprotein metabolism. Assessment and plan documented.,E78,Нарушения обмена липопротеидов,0
+Patient diagnosed with Encounter for immunization. Assessment and plan documented.,Z23,टीकाकरण,0
+Patient diagnosed with Alcohol related disorders. Assessment and plan documented.,F10,Gangguan terkait alkohol,0
+Patient diagnosed with Malignant neoplasm of prostate. Assessment and plan documented.,C61,Prostatas ļaundabīgs audzējs,0
+Patient diagnosed with Chronic ischemic heart disease. Assessment and plan documented.,I25,Krooniline isheemiline südamehaigus,0
+"Progressive knee pain, worse with activity. XR: JSN, osteophytes. Weight loss advised. Paracetamol. PT for quads. Consider injection.",M17,膝关节骨关节炎,0
+"Recurrent unilateral throbbing HA with N/V, photophobia. 4-5/month. Triggers: stress, sleep. Sumatriptan PRN. HA diary.",G43,편두통,0
+"Acute L hemiparesis, facial droop. CT: R MCA infarct. tPA given. Stroke unit admission. Secondary prevention started.",I63,Hirninfarkt,0
+"Mechanical LBP x2wks, no radiculopathy. No red flags. ROM limited. NSAIDs. PT referral. Activity as tolerated.",M54,Dorzalgia,0
+HbA1c 58. FBG 8.2. BMI 31. Diet/exercise counseling. Started metformin 500mg bid. Annual eye/foot exam ordered.,E11,2型糖尿病,1
+"GAD-7: 14. Persistent worry, restlessness x6mo. No panic. CBT recommended. SSRI discussed - patient prefers therapy first.",F41,Gangguan kecemasan,0
+Patient diagnosed with Diabetes mellitus in pregnancy. Assessment and plan documented.,O24,Cukrzyca w ciąży,0
+"Intermittent wheeze, nocturnal cough. PEF variability >20%. Spirometry: reversible obstruction. ICS/LABA started. Asthma action plan.",J45,Asma,0
+HbA1c 58. FBG 8.2. BMI 31. Diet/exercise counseling. Started metformin 500mg bid. Annual eye/foot exam ordered.,E11,2型糖尿病,1
+"Fever 39.5°C, tachycardia, hypotension. Suspected UTI source. Blood cx drawn. Started broad-spectrum abx. ICU consult.",A41,ภาวะติดเชื้อในกระแสเลือดอื่น,0
+"PHQ-9: 15. Sleep disturbance, anhedonia, poor concentration x6wks. No SI. Started SSRI. Psychotherapy referral. F/u 2wks.",F32,Episodio depresivo,0
+"BP 158/96 x3 readings. No end-organ damage. BMI 28. Lifestyle: DASH diet, exercise, Na restriction. Started ACEi. Home BP monitoring.",I10,Ipertensione essenziale,0
+Patient diagnosed with Parkinson disease. Assessment and plan documented.,G20,Parkinson disease,0
+Patient diagnosed with Intracranial injury. Assessment and plan documented.,S06,Intrakraniálne poranenie,0
+Patient diagnosed with Encounter for immunization. Assessment and plan documented.,Z23,Cijepljenje,0
+"BMI 38. Weight 115kg. Discussed lifestyle modifications, diet, exercise. Consider GLP-1 agonist. Dietitian referral.",E66,肥満,0
+"Fever 39.5°C, tachycardia, hypotension. Suspected UTI source. Blood cx drawn. Started broad-spectrum abx. ICU consult.",A41,Άλλη σηψαιμία,0
+"Tension-type HA, bilateral, pressing. No red flags. Occasional paracetamol. Stress, poor sleep. Lifestyle advice. HA diary.",R51,صداع,0
+"Tension-type HA, bilateral, pressing. No red flags. Occasional paracetamol. Stress, poor sleep. Lifestyle advice. HA diary.",R51,Cefalee,0
+Patient diagnosed with Parkinson disease. Assessment and plan documented.,G20,Parkinsono liga,0
+eGFR 42. Proteinuria 0.5g/d. BP controlled on ACEi. DM controlled. Avoid nephrotoxins. Annual uACR/eGFR. Nephro referral if decline.,N18,Przewlekła choroba nerek,0
+"BMI 38. Weight 115kg. Discussed lifestyle modifications, diet, exercise. Consider GLP-1 agonist. Dietitian referral.",E66,Obesitas,0
+"COPD GOLD III. Increased dyspnea, purulent sputum. SpO2 88% RA. ABG: resp acidosis. Admitted. Steroids, bronchodilators, abx. NIV.",J44,Lėtinė obstrukcinė plaučių liga,0
+eGFR 42. Proteinuria 0.5g/d. BP controlled on ACEi. DM controlled. Avoid nephrotoxins. Annual uACR/eGFR. Nephro referral if decline.,N18,Krooninen munuaissairaus,0
+"Progressive knee pain, worse with activity. XR: JSN, osteophytes. Weight loss advised. Paracetamol. PT for quads. Consider injection.",M17,Kelio sąnario osteoartritas,0
+"PHQ-9: 15. Sleep disturbance, anhedonia, poor concentration x6wks. No SI. Started SSRI. Psychotherapy referral. F/u 2wks.",F32,Epizod depresyjny,0
+Patient diagnosed with Epilepsy. Assessment and plan documented.,G40,Эпилепсия,0
+Patient diagnosed with Chronic ischemic heart disease. Assessment and plan documented.,I25,만성 허혈성 심장 질환,0
+"Hb 95, MCV 72, ferritin 8. Menorrhagia reported. Started iron supplementation. GYN referral.",D50,철결핍성 빈혈,0
+Patient diagnosed with Encounter for immunization. Assessment and plan documented.,Z23,예방접종,0
+Patient diagnosed with Diabetes mellitus in pregnancy. Assessment and plan documented.,O24,Đái tháo đường thai kỳ,0
+"Productive cough, fever 38.8°C, dyspnea. CXR: RLL consolidation. CRP 120. Amoxicillin started. F/u 48h.",J18,"Polmonite, microrganismo non specificato",0
+Patient diagnosed with Hypothyroidism. Assessment and plan documented.,E03,Pajzsmirigy-alulműködés,0
+"Progressive knee pain, worse with activity. XR: JSN, osteophytes. Weight loss advised. Paracetamol. PT for quads. Consider injection.",M17,Choroba zwyrodnieniowa stawu kolanowego,0
+Patient diagnosed with Gastritis and duodenitis. Assessment and plan documented.,K29,Gastraíteas agus duaidiníteas,0
+Patient diagnosed with HIV disease. Assessment and plan documented.,B20,HIV-betegség,0
+"Mekanisk ländryggssmärta x2v, ingen radikulopati. Inga röda flaggor. Rörelseomfång begränsat. NSAID. FT-remiss. Aktivitet efter förmåga.",M54,Ryggsmärta,0
+eGFR 42. Proteinuria 0.5g/d. BP controlled on ACEi. DM controlled. Avoid nephrotoxins. Annual uACR/eGFR. Nephro referral if decline.,N18,Malattia renale cronica,0
+"Dysuria, frequency, urgency. No fever/flank pain. Dipstick: nitrite+, WBC++. Uncomplicated cystitis. Nitrofurantoin x3d.",N39,Alte afecțiuni ale aparatului urinar,0
+"PHQ-9: 15. Sleep disturbance, anhedonia, poor concentration x6wks. No SI. Started SSRI. Psychotherapy referral. F/u 2wks.",F32,Depressive Episode,0
+Patient diagnosed with Osteoporosis without pathological fracture. Assessment and plan documented.,M81,Οστεοπόρωση χωρίς παθολογικό κάταγμα,0
+HbA1c 58. FBG 8.2. BMI 31. Diet/exercise counseling. Started metformin 500mg bid. Annual eye/foot exam ordered.,E11,2. tüüpi suhkurtõbi,1
+Patient diagnosed with Multiple sclerosis. Assessment and plan documented.,G35,Множествена склероза,0
+Patient diagnosed with Epilepsy. Assessment and plan documented.,G40,Epilepszia,0
+"Hb 95, MCV 72, ferritin 8. Menorrhagia reported. Started iron supplementation. GYN referral.",D50,鉄欠乏性貧血,0
+Patient diagnosed with Multiple sclerosis. Assessment and plan documented.,G35,โรคปลอกประสาทเสื่อมแข็ง,0
+"Fall from standing. Hip pain, shortened ext rotated leg. XR: intertrochanteric fx. Ortho consult. Surgical fixation planned.",S72,Złamanie kości udowej,0
+"Progressive knee pain, worse with activity. XR: JSN, osteophytes. Weight loss advised. Paracetamol. PT for quads. Consider injection.",M17,Gonartroză,0
+Patient diagnosed with Chronic ischemic heart disease. Assessment and plan documented.,I25,Krónikus ischaemiás szívbetegség,0
+Patient diagnosed with General examination and investigation. Assessment and plan documented.,Z00,一般检查,0
+Patient diagnosed with General examination and investigation. Assessment and plan documented.,Z00,Opći pregled,0
+CT chest: 4cm RUL mass with mediastinal LAD. Biopsy scheduled. Staging initiated. Oncology referral.,C34,Bösartige Neubildung der Bronchien und der Lunge,0
+Patient diagnosed with Encounter for immunization. Assessment and plan documented.,Z23,Имунизация,0
+Patient diagnosed with HIV disease. Assessment and plan documented.,B20,HIV感染症,0
+Patient diagnosed with Recurrent depressive disorder. Assessment and plan documented.,F33,Tilbagevendende depression,0
+"Tension-type HA, bilateral, pressing. No red flags. Occasional paracetamol. Stress, poor sleep. Lifestyle advice. HA diary.",R51,Glavobol,0
+"BMI 38. Weight 115kg. Discussed lifestyle modifications, diet, exercise. Consider GLP-1 agonist. Dietitian referral.",E66,肥胖症,0
+"Mechanical LBP x2wks, no radiculopathy. No red flags. ROM limited. NSAIDs. PT referral. Activity as tolerated.",M54,등통증,0
+Patient diagnosed with Respiratory tuberculosis. Assessment and plan documented.,A15,السل التنفسي,0
+Patient diagnosed with HIV disease. Assessment and plan documented.,B20,Doença pelo HIV,0
+"Dysuria, frequency, urgency. No fever/flank pain. Dipstick: nitrite+, WBC++. Uncomplicated cystitis. Nitrofurantoin x3d.",N39,Andre sygdomme i urinvejene,0
+New onset T1DM. DKA on presentation. Insulin started. Diabetes education initiated. Endo f/u arranged.,E10,Sladkorna bolezen tipa 1,1
+"Intermittent wheeze, nocturnal cough. PEF variability >20%. Spirometry: reversible obstruction. ICS/LABA started. Asthma action plan.",J45,दमा,0
+Patient diagnosed with Multiple sclerosis. Assessment and plan documented.,G35,मल्टीपल स्क्लेरोसिस,0
+Patient diagnosed with Cholelithiasis. Assessment and plan documented.,K80,Kamica żółciowa,0
+Patient diagnosed with Cholelithiasis. Assessment and plan documented.,K80,Желчнокаменная болезнь,0
+"FOOSH injury. XR: distal radius fx, minimal displacement. Closed reduction. Cast applied. Elevation, ice. Ortho f/u 1wk.",S52,Fraktur lengan bawah,0
+Patient diagnosed with Recurrent depressive disorder. Assessment and plan documented.,F33,Disturb depressiv rikorrenti,0
+"COPD GOLD III. Increased dyspnea, purulent sputum. SpO2 88% RA. ABG: resp acidosis. Admitted. Steroids, bronchodilators, abx. NIV.",J44,Przewlekła obturacyjna choroba płuc,0
+Patient diagnosed with HIV disease. Assessment and plan documented.,B20,مرض نقص المناعة,0
+Patient diagnosed with Epilepsy. Assessment and plan documented.,G40,てんかん,0
+Mammography: suspicious 2cm lesion L breast. Core biopsy done - awaiting path. MDT planned.,C50,Zloćudna novotvorina dojke,0
+"Productive cough, fever 38.8°C, dyspnea. CXR: RLL consolidation. CRP 120. Amoxicillin started. F/u 48h.",J18,"Tüdőgyulladás, nem meghatározott kórokozó",0
+Patient diagnosed with Chronic ischemic heart disease. Assessment and plan documented.,I25,Marda iskemika kronika tal-qalb,0
+Patient diagnosed with Diabetes mellitus in pregnancy. Assessment and plan documented.,O24,Diabetes melitus dalam kehamilan,0
+Patient diagnosed with Respiratory tuberculosis. Assessment and plan documented.,A15,Elpceļu tuberkuloze,0
+Patient diagnosed with Intracranial injury. Assessment and plan documented.,S06,Intrakraniāla trauma,0
+Patient diagnosed with Alcohol related disorders. Assessment and plan documented.,F10,Rối loạn liên quan đến rượu,0
+Patient diagnosed with Gastritis and duodenitis. Assessment and plan documented.,K29,Γαστρίτιδα και δωδεκαδακτυλίτιδα,0
+Patient diagnosed with Alzheimer disease. Assessment and plan documented.,G30,阿尔茨海默病,0
+Patient diagnosticerad med Allmän undersökning och utredning. Bedömning och plan dokumenterade.,Z00,Allmän undersökning och utredning,0
+Patient diagnosed with Multiple sclerosis. Assessment and plan documented.,G35,Hulgiskleroos,0
+Patient diagnosed with Malignant neoplasm of colon. Assessment and plan documented.,C18,대장의 악성 신생물,0
+Patient diagnosed with Epilepsy. Assessment and plan documented.,G40,Epilepsi,0
+Patient diagnosed with Malignant neoplasm of colon. Assessment and plan documented.,C18,Maligni tumor debelega črevesa,0
+Patient diagnosed with Encounter for immunization. Assessment and plan documented.,Z23,免疫接种,0
+Patient diagnosed with Alzheimer disease. Assessment and plan documented.,G30,Boala Alzheimer,0
+Patient diagnosed with Abdominal and pelvic pain. Assessment and plan documented.,R10,อาการปวดท้องและอุ้งเชิงกราน,0
+HbA1c 58. FBG 8.2. BMI 31. Diet/exercise counseling. Started metformin 500mg bid. Annual eye/foot exam ordered.,E11,Diabetes melitus tipe 2,1
+"Hb 95, MCV 72, ferritin 8. Menorrhagia reported. Started iron supplementation. GYN referral.",D50,Σιδηροπενική αναιμία,0
+Patient diagnosed with General examination and investigation. Assessment and plan documented.,Z00,การตรวจทั่วไป,0
+Patient diagnosed with Alzheimer disease. Assessment and plan documented.,G30,Alzheimerova choroba,0
+Patient diagnosed with Angina pectoris. Assessment and plan documented.,I20,Angina pectoris,0
+"Dysuri, täta trängningar. Ingen feber/flanksmärta. Urinsticka: nitrit+, LPK++. Okomplicerad cystit. Nitrofurantoin x3d.",N39,Andra sjukdomar i urinorganen,0
+"Hb 95, MCV 72, ferritin 8. Menorrhagia reported. Started iron supplementation. GYN referral.",D50,Dzelzs deficīta anēmija,0
+Patient diagnosed with Intracranial injury. Assessment and plan documented.,S06,Intrakranijinė trauma,0
+Patient diagnosed with Abdominal and pelvic pain. Assessment and plan documented.,R10,腹部和盆腔疼痛,0
+Patient diagnosed with Cholera. Assessment and plan documented.,A00,Холера,0
+Patient diagnosed with Intracranial injury. Assessment and plan documented.,S06,إصابة داخل الجمجمة,0
+"PHQ-9: 15. Sleep disturbance, anhedonia, poor concentration x6wks. No SI. Started SSRI. Psychotherapy referral. F/u 2wks.",F32,نوبة اكتئابية,0
+"Heartburn, regurgitation x3mo. Gastroscopy: LA grade B esophagitis. H.pylori neg. PPI started. Lifestyle advice. F/u scope 8wks.",K21,Gastroezofageálna refluxná choroba,0
+Patient diagnosticerad med Kronisk ischemisk hjärtsjukdom. Bedömning och plan dokumenterade.,I25,Kronisk ischemisk hjärtsjukdom,0
+"BMI 38. Weight 115kg. Discussed lifestyle modifications, diet, exercise. Consider GLP-1 agonist. Dietitian referral.",E66,Obezitate,0
+Patient diagnosed with Angina pectoris. Assessment and plan documented.,I20,Angină pectorală,0
+Patient diagnosed with Encounter for immunization. Assessment and plan documented.,Z23,Vaktsineerimine,0
+"Dysuria, frequency, urgency. No fever/flank pain. Dipstick: nitrite+, WBC++. Uncomplicated cystitis. Nitrofurantoin x3d.",N39,Inne choroby układu moczowego,0
+"Mechanical LBP x2wks, no radiculopathy. No red flags. ROM limited. NSAIDs. PT referral. Activity as tolerated.",M54,Dorsalgia,0
+Patient diagnosed with Diabetes mellitus in pregnancy. Assessment and plan documented.,O24,Diabetes mellitus en el embarazo,0
+New onset T1DM. DKA on presentation. Insulin started. Diabetes education initiated. Endo f/u arranged.,E10,เบาหวานชนิดที่ 1,1
+"COPD GOLD III. Increased dyspnea, purulent sputum. SpO2 88% RA. ABG: resp acidosis. Admitted. Steroids, bronchodilators, abx. NIV.",J44,慢性閉塞性肺疾患,0
+"Patient presents with acute diarrhea and vomiting x2 days. No blood in stool. Mild dehydration. VS stable. Dx: Viral gastroenteritis. Plan: ORS, symptomatic Tx.",A09,Infekciozs gastroenterīts,0
+Patient diagnosed with Gastritis and duodenitis. Assessment and plan documented.,K29,Zapalenie żołądka i dwunastnicy,0
+"Acute L hemiparesis, facial droop. CT: R MCA infarct. tPA given. Stroke unit admission. Secondary prevention started.",I63,Hjerneinfarkt,0
+Patient diagnosed with Disorders of lipoprotein metabolism. Assessment and plan documented.,E78,Disorders of lipoprotein metabolism,0
+"BMI 38. Weight 115kg. Discussed lifestyle modifications, diet, exercise. Consider GLP-1 agonist. Dietitian referral.",E66,Obesità,0
+Patient diagnosed with Malignant neoplasm of colon. Assessment and plan documented.,C18,Jämesoole pahaloomuline kasvaja,0
+"Patient presents with acute diarrhea and vomiting x2 days. No blood in stool. Mild dehydration. VS stable. Dx: Viral gastroenteritis. Plan: ORS, symptomatic Tx.",A09,感染性胃腸炎,0
+"Patient presents with acute diarrhea and vomiting x2 days. No blood in stool. Mild dehydration. VS stable. Dx: Viral gastroenteritis. Plan: ORS, symptomatic Tx.",A09,Viêm dạ dày ruột nhiễm trùng,0
+Patient diagnosed with Angina pectoris. Assessment and plan documented.,I20,Angina pectoris,0
+"Heartburn, regurgitation x3mo. Gastroscopy: LA grade B esophagitis. H.pylori neg. PPI started. Lifestyle advice. F/u scope 8wks.",K21,Gastroezofagealna refluksna bolezen,0
+Patient diagnosed with Malignant neoplasm of colon. Assessment and plan documented.,C18,Nowotwór złośliwy okrężnicy,0
+"Productive cough, fever 38.8°C, dyspnea. CXR: RLL consolidation. CRP 120. Amoxicillin started. F/u 48h.",J18,"폐렴, 상세불명의 병원체",0
+Persistent dry cough x4wks. Non-smoker. No dyspnea. CXR normal. Likely post-viral. Trial antihistamine. PPI if no improvement.,R05,Klepus,0
+Patient diagnosed with Osteoporosis without pathological fracture. Assessment and plan documented.,M81,هشاشة العظام دون كسر مرضي,0
+CT chest: 4cm RUL mass with mediastinal LAD. Biopsy scheduled. Staging initiated. Oncology referral.,C34,Neoplasia maligna dei bronchi e del polmone,0
+Persistent dry cough x4wks. Non-smoker. No dyspnea. CXR normal. Likely post-viral. Trial antihistamine. PPI if no improvement.,R05,Βήχας,0
+Patient diagnosed with Malignant neoplasm of prostate. Assessment and plan documented.,C61,Злокачествено новообразувание на простатата,0
+"BMI 38. Weight 115kg. Discussed lifestyle modifications, diet, exercise. Consider GLP-1 agonist. Dietitian referral.",E66,Lihavuus,0
+Patient diagnosed with Disorders of lipoprotein metabolism. Assessment and plan documented.,E78,اضطرابات أيض البروتين الدهني,0
+"PHQ-9: 15. Sleep disturbance, anhedonia, poor concentration x6wks. No SI. Started SSRI. Psychotherapy referral. F/u 2wks.",F32,Depresivna epizoda,0
+Persistent dry cough x4wks. Non-smoker. No dyspnea. CXR normal. Likely post-viral. Trial antihistamine. PPI if no improvement.,R05,Sogħla,0
+"Patient presents with acute diarrhea and vomiting x2 days. No blood in stool. Mild dehydration. VS stable. Dx: Viral gastroenteritis. Plan: ORS, symptomatic Tx.",A09,Infektivni gastroenteritis,0
+CT chest: 4cm RUL mass with mediastinal LAD. Biopsy scheduled. Staging initiated. Oncology referral.,C34,支气管和肺恶性肿瘤,0
+"Progressive knee pain, worse with activity. XR: JSN, osteophytes. Weight loss advised. Paracetamol. PT for quads. Consider injection.",M17,Gonartroza,0
